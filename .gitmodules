@@ -1,0 +1,3 @@
+[submodule "YangCoffee"]
+	path = YangCoffee
+	url = https://github.com/YangTris/YangCoffee
